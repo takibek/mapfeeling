@@ -1,0 +1,3 @@
+[submodule "APR"]
+	path = APR
+	url = https://github.com/Bekhouche/APR.git
